@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sri21-3
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Automation with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Devops roles 
+- 🌱 I’m currently practicing devops skills in aws and azure environments
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me - srisrivatsava120@gmail.com
 
 <!---
 sri21-3/sri21-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
