@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sri21-3
-- 👀 I’m interested in DataSceince and AI roles 
+- 👀 I’m interested in Data Science and AI roles 
 - 🌱 I’m currently Attending Data Science and AI course At Social Prachar institute
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - srisrivatsava120@gmail.com
